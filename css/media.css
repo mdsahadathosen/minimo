@@ -1,0 +1,372 @@
+/*Extra small devices (portrait phones, less than 576px) Extra small screen/Mobile Screen/COL*/
+@media (max-width: 575.98px) { 
+/*header start */
+.custom-nav ul li a{
+	text-align: center;
+	padding-left: 0px !important;
+}
+/*header end */
+
+/*banner start */
+#banner {
+    margin-bottom: 55px !important;
+}
+/*banner end */
+
+/*weekend getway start */
+#weekend_getway {
+    margin-bottom: 45px;
+}
+.common_subtitle {
+    margin-bottom: 10px;
+    text-align: center;
+}
+.weekend_getway_title {
+    padding-bottom: 8px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+.weekend_getway_details {
+    text-align: justify;
+    padding: 0 20px 5px 20px;
+}
+/*weekend getway end */
+
+/*lifestyle 1 & photodairy start */
+#lifestyle_one_and_photodairy {
+    margin-bottom: 15px;
+}
+.custom-card-title{
+	padding-bottom: 0px;
+}
+.single_lifestyle {
+    margin-bottom: 10px;
+}
+.load_more_btn {
+    margin-top: 10px;
+}
+/*lifestyle 1 & photodairy end */
+
+/*newsletter start */
+#newsletter {
+    margin-bottom: 70px;
+}
+/*newsletter end */
+
+/*lifestyle 2 start */
+#lifestyle_two_and_photodairy {
+    margin-bottom: 65px;
+}
+/*lifestyle 2 end */
+
+/*footer start */
+.footer-text {
+    font-size: 14px;
+}
+.footer-text-left{
+	text-align: left;
+    padding-left: 25px;
+}
+.footer-text-right{
+	text-align: right;
+    padding-right: 25px;
+}
+/*footer end */
+}
+
+/*Small devices (landscape phones, 576px and up) Small screen/SM*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+/*header start */
+.custom-nav ul li a{
+	text-align: center;
+	padding-left: 0px !important;
+}
+/*header end */
+
+/*banner start */
+#banner {
+    margin-bottom: 55px !important;
+}
+
+/*banner end */
+
+/*weekend getway start */
+#weekend_getway {
+    margin-bottom: 45px;
+}
+.weekend_getway_title {
+    padding-bottom: 8px;
+    font-size: 25px;
+    font-weight: bold;
+}
+.common_subtitle {
+    margin-bottom: 10px;
+}
+.weekend_getway_details {
+    text-align: justify;
+    padding: 0 0 5px 0;
+}
+/*weekend getway end */
+
+/*lifestyle 1 & photodairy start */
+#lifestyle_one_and_photodairy {
+    margin-bottom: 15px;
+}
+.custom-card-title{
+	padding-bottom: 0px;
+}
+.single_lifestyle {
+    margin-bottom: 25px;
+}
+.load_more_btn {
+    margin-top: 10px;
+}
+/*lifestyle 1 & photodairy end */
+
+/*newsletter start */
+#newsletter {
+    margin-bottom: 70px;
+}
+/*newsletter end */
+
+/*lifestyle 2 start */
+#lifestyle_two_and_photodairy {
+    margin-bottom: 65px;
+}
+/*lifestyle 2 end */
+
+/*footer start */
+.footer-text {
+    font-size: 14px;
+}
+.footer-text-left{
+	text-align: left;
+    padding-left: 25px;
+}
+.footer-text-right{
+	text-align: right;
+    padding-right: 25px;
+}
+/*footer end */
+ }
+
+/*Medium devices (tablets, 768px and up) Tab screen/MD*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+/*header start */
+.custom-nav ul li a{
+	text-align: center;
+	padding-left: 0px !important;
+}
+/*header end */
+
+/*banner start */
+#banner {
+    margin-bottom: 55px !important;
+}
+/*banner end */
+
+/*weekend getway start */
+#weekend_getway {
+    margin-bottom: 45px;
+}
+.common_subtitle {
+    margin-bottom: 10px;
+}
+.weekend_getway_title {
+    padding-bottom: 8px;
+    font-size: 25px;
+    font-weight: bold;
+}
+.weekend_getway_details {
+    text-align: justify;
+    padding: 0 0 5px 0;
+}
+/*weekend getway end */
+
+/*lifestyle 1 & photodairy start */
+#lifestyle_one_and_photodairy {
+    margin-bottom: 25px;
+}
+.custom-card-title{
+	padding-bottom: 0px;
+	font-size: 24px;
+}
+.single_lifestyle {
+    margin-bottom: 40px;
+}
+.custom-card-body{
+	padding: 20px 0 0 0 !important;
+}
+.card-text{
+	text-align: justify;
+}
+.load_more_btn {
+    margin-top: 15px;
+}
+/*lifestyle 1 & photodairy end */
+
+/*newsletter start */
+#newsletter {
+    margin-bottom: 70px;
+}
+/*newsletter end */
+
+/*lifestyle 2 start */
+#lifestyle_two_and_photodairy {
+    margin-bottom: 65px;
+}
+/*lifestyle 2 end */
+
+/*footer start */
+.footer-text {
+    font-size: 14px;
+}
+.footer-text-left{
+	text-align: left;
+}
+.footer-text-right{
+	text-align: right;
+}
+/*footer end */
+ }
+
+/*Large devices (desktops, 992px and up) Large/Laptop Screen/LG*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+/*header start */
+/*header end */
+
+/*banner start */
+#banner {
+    margin-bottom: 60px !important;
+}
+/*banner end */
+
+/*weekend getway start */
+#lifestyle_one_and_photodairy {
+    margin-bottom: 25px;
+}
+#weekend_getway {
+    margin-bottom: 45px;
+}
+.common_subtitle {
+    margin-bottom: 10px;
+}
+.weekend_getway_title {
+    padding-bottom: 8px;
+    font-size: 25px;
+    font-weight: bold;
+}
+.weekend_getway_details {
+    text-align: justify;
+    padding: 0 0 5px 0;
+}
+/*weekend getway end */
+
+/*lifestyle 1 & photodairy start */
+.custom-card-title{
+	padding-bottom: 0px;
+}
+.single_lifestyle {
+    margin-bottom: 20px;
+}
+.custom-card-title {
+    font-size: 24px;
+}
+.load_more_btn {
+    margin-top: 20px;
+}
+/*lifestyle 1 & photodairy end */
+
+/*newsletter start */
+#newsletter {
+    margin-bottom: 75px;
+}
+/*newsletter end */
+
+/*lifestyle 2 start */
+#lifestyle_two_and_photodairy {
+    margin-bottom: 65px;
+}
+/*lifestyle 2 end */
+
+/*footer start */
+.footer-text {
+    font-size: 14px;
+}
+.footer-text-left{
+	text-align: left;
+}
+.footer-text-right{
+	text-align: right;
+}
+/*footer end */
+ }
+
+/*Extra large devices (large desktops, 1200px and up) Extra large Screen/XL*/
+@media (min-width: 1200px) { 
+/*header start */
+/*header end */
+
+/*banner start */
+#banner {
+    margin-bottom: 70px !important;
+}
+/*banner end */
+
+/*weekend getway start */
+#weekend_getway {
+    margin-bottom: 45px;
+}
+.weekend_getway_body p{
+	margin-bottom: 12px;
+	padding-bottom: 7px;
+}
+.weekend_getway_title {
+    padding-bottom: 10px;
+    margin-bottom: 5px;
+}
+.weekend_getway_details {
+    text-align: justify;
+}
+/*weekend getway end */
+
+/*lifestyle 1 & photodairy start */
+#lifestyle_one_and_photodairy {
+    margin-bottom: 25px;
+}
+.custom-card-title{
+	padding-bottom: 0px;
+}
+.single_lifestyle {
+    margin-bottom: 25px;
+}
+.custom-card-title {
+    font-size: 28px;
+}
+.load_more_btn {
+    margin-top: 20px;
+}
+/*lifestyle 1 & photodairy end */
+
+/*newsletter start */
+#newsletter {
+    margin-bottom: 80px;
+}
+/*newsletter end */
+
+/*lifestyle 2 start */
+#lifestyle_two_and_photodairy {
+    margin-bottom: 65px;
+}
+/*lifestyle 2 end */
+
+/*footer start */
+.footer-text-left{
+	text-align: left;
+}
+.footer-text-right{
+	text-align: right;
+}
+/*footer end */
+ }
